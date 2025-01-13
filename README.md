@@ -25,9 +25,9 @@ Ready for a fun challenge? This is a **Rock, Paper, Scissors** game you can play
    ```
 
 3. **Run the Game:**  
-   Save the following script as `rockPaperScissors.js`, and run it using:
+   Save the following script as `index.js`, and run it using:
    ```bash
-   node rockPaperScissors.js
+   node index.js
    ```
 
 ---
